@@ -32,7 +32,7 @@
                 "uniques": ["\"Borrows\" city names from other civilizations in the game",
 			    "No movement cost to pillage",
 			    "Units ignore terrain costs when moving",
-			    "[-33]% growth [in all cities]",
+			    "[-33]% [Growth] [in all cities]",
 			    "[-50]% [Science] [in all cities]"],
 		"cities": ["Base"]
 	}
