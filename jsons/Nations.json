@@ -28,8 +28,8 @@
 
 		"outerColor": [30, 30, 30],
 		"innerColor": [178, 34, 34],
-		"uniqueName": "tribal traditions"
-                "uniques": ["[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast","Starts with [Animal Husbandry]","\"Borrows\" city names from other civilizations in the game"],
+		"uniqueName": "Племенные традиции"
+                "uniques": ["\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Base"]
 	}
 ]
