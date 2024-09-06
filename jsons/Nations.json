@@ -30,10 +30,10 @@
 		"innerColor": [178, 34, 34],
 		"uniqueName": "Племенные традиции"
                 "uniques": ["\"Borrows\" city names from other civilizations in the game",
-			    \"No movement cost to pillage",
+			    "No movement cost to pillage",
 			    "Units ignore terrain costs when moving",
 			    "[-33]% growth [in all cities]",
-			    "[-50]% science [in all cities]",
+			    "[-50]% science [in all cities]"],
 		"cities": ["Base"]
 	}
 ]
