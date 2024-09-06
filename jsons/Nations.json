@@ -1,25 +1,25 @@
 [
 	{
 		"name": "Варвары",
-		"leaderName": "Барбариан I",
+		"leaderName": "Барбариан I
 		"adjective": ["Варвары"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "я, Барбариан I, оъединитель и владыка земель свободных",
+		"startIntroPart2": "Придём ли мы к совместному величию",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Моя казна обнищала, поплнить её придётся тебе",
+		"attacked": "Ну давайте нападайте, всем миром разом",
+		"defeated": "мораль всей басни такова, толпой загасят даже льва, но друзя поверьте, толпою гасят только черти",
+		"introduction": "я, Барбариан I, оъединитель и владыка земель свободных",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Здраствуй странник",
+		"neutralLetsHearIt": ["поведай мне", "расскажи мне"],
+		"neutralNo": ["я отказываюсь", "ваши дары незначительны для нас"],
+		"neutralYes": ["золото, это только золото"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "а что теперь?",
+		"hateLetsHearIt": [""],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
@@ -28,10 +28,8 @@
 
 		"outerColor": [30, 30, 30],
 		"innerColor": [178, 34, 34],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "tribal traditions"
+		"uniques": "\"Borrows\" city names from other civilizations in the game",
+		"cities": ["Base"]
 	}
 ]
