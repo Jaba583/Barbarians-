@@ -29,7 +29,7 @@
 		"outerColor": [30, 30, 30],
 		"innerColor": [178, 34, 34],
 		"uniqueName": "Племенные традиции"
-                "uniques": ["\"Borrows\" city names from other civilizations in the game"],
+                "uniques": ["\"Borrows\" city names from other civilizations in the game", "[Military] units no movement cost to pillage"],
 		"cities": ["Base"]
 	}
 ]
