@@ -33,7 +33,7 @@
 			    \"No movement cost to pillage",
 			    "Units ignore terrain costs when moving",
 			    "[-25]% growth [in all cities]",
-		            "[+50%] Science cost modifier,
-		"cities": ["База"]
+		            "[+50%] science [in all cities],
+		"cities": ["Base"]
 	}
 ]
