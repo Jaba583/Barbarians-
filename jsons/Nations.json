@@ -33,7 +33,7 @@
 			    "No movement cost to pillage",
 			    "Units ignore terrain costs when moving",
 			    "[-33]% growth [in all cities]",
-			    "[+50]% cost of science"],
+			    "[-100%]% science from the population"],
 		"cities": ["Base"]
 	}
 ]
