@@ -5,13 +5,13 @@
 		"adjective": ["Варвары"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "я, Барбариан I, оъединитель и владыка земель свободных",
+		"startIntroPart1": "Я, Барбариан I, оъединитель и владыка земель свободных",
 		"startIntroPart2": "Придём ли мы к совместному величию",
 		
 		"declaringWar": "Моя казна обнищала, поплнить её придётся тебе",
 		"attacked": "Ну давайте нападайте, всем миром разом",
-		"defeated": "мораль всей басни такова, толпой загасят даже льва, но друзя поверьте, толпою гасят только черти",
-		"introduction": "я, Барбариан I, оъединитель и владыка земель свободных",
+		"defeated": "Мораль всей басни такова, толпой загасят даже льва, но друзя поверьте, толпою гасят только черти",
+		"introduction": "Я, Барбариан I, оъединитель и владыка земель свободных",
 		
 		"neutralHello": "Здраствуй странник",
 		"neutralLetsHearIt": ["поведай мне", "расскажи мне"],
@@ -29,7 +29,7 @@
 		"outerColor": [30, 30, 30],
 		"innerColor": [178, 34, 34],
 		"uniqueName": "Племенные традиции"
-                "uniques": ["\"Borrows\" city names from other civilizations in the game", "[Military] units no movement cost to pillage"],
+                "uniques": ["\"Borrows\" city names from other civilizations in the game", "No movement cost to pillage"],
 		"cities": ["Base"]
 	}
 ]
