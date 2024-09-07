@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Composite Bowmam",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"uniqueTo": "Варвары",
 		"replaces": "Composite Bowmam",
 		"movement": 3,
