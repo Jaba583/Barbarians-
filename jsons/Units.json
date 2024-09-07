@@ -98,5 +98,32 @@
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
         "attackSound": "crossbow"
+    },
+    {
+        "name": "Longsword",
+        "unitType": "Sword",
+	"replaces": "Longswordsman",
+	"uniqueTo": "Варвары",
+        "movement": 3,
+        "strength": 19,
+        "cost": 115,
+        "requiredTech": "Steel",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "requiredResource": "Iron",
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Pirate",
+        "unitType": "Gunpowder",
+	"uniqueTo": "Варвары",
+	"replaces": "Musketman",
+        "movement": 3,
+        "strength": 23,
+        "cost": 145,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "obsoleteTech": "Rifling",
+        "attackSound": "shot"
     }
 ]
