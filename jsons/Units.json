@@ -84,5 +84,19 @@
         "upgradesTo": "Lancer",
         "obsoleteTech": "Metallurgy",
         "attackSound": "metalhit"
+    },
+    {
+        "name": "Bowman",
+        "unitType": "Archery",
+	"replaces": "Crossbowman",
+	"uniqueTo": "Варвары",
+        "movement": 3,
+        "strength": 12,
+        "rangedStrength": 17,
+        "cost": 110,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "attackSound": "crossbow"
     }
 ]
