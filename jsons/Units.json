@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Застрельщик",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"uniqueTo": "Варвары",
+		"replaces": "Composite Bowmam",
+		"movement": 3,
+		"strength": 6,
+		"rangedStrength": 10,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"cost": 65,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"attackSound": "arrow"
+	},
+	
 ]
