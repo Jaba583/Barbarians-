@@ -1,6 +1,7 @@
 [
     {
         "name": "Composite Bowman",
+	"uniqueTo": "Варвары",
         "unitType": "Archery",
 	"replaces": "Composite Bowman",
         "movement": 3,
