@@ -12,6 +12,5 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"attackSound": "arrow"
-	},
-	
+	}
 ]
