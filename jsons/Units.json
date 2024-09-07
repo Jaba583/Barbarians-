@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Застрельщик",
+		"name": "Skirmisher",
 		"unitType": "Ranged",
 		"uniqueTo": "Варвары",
 		"replaces": "Composite Bowmam",
