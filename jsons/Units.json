@@ -12,5 +12,19 @@
         "obsoleteTech": "Machinery",
         "upgradesTo": "Crossbowman",
         "attackSound": "arrow"
+    },
+    {
+        "name": "Marauder",
+	"replaces": "Spearman",
+	"uniqueTo": "Варвары",
+        "unitType": "Sword",
+        "movement": 3,
+        "strength": 10,
+        "cost": 46,
+        "requiredTech": "Bronze Working",
+        "obsoleteTech": "Civil Service",
+        "upgradesTo": "Pikeman",
+        "uniques": ["[+50]% Strength <vs [Mounted] units>"],
+        "attackSound": "metalhit"
     }
 ]
