@@ -72,7 +72,7 @@
         "attackSound": "horse"
     },
     {
-        "name": "Pikeman",
+        "name": " Peaks",
         "unitType": "Sword",
 	"replaces": "Pikeman",
 	"uniqueTo": "Варвары",
