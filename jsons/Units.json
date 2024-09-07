@@ -86,7 +86,7 @@
         "attackSound": "metalhit"
     },
     {
-        "name": "Crossbowman",
+        "name": "Crossbow",
         "unitType": "Archery",
 	"replaces": "Crossbowman",
 	"uniqueTo": "Варвары",
