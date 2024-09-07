@@ -70,5 +70,19 @@
             "No defensive terrain bonus",
             "[-33]% Strength <vs cities> <when attacking>"],
         "attackSound": "horse"
+    },
+    {
+        "name": "Pikeman",
+        "unitType": "Sword",
+	"replaces": "Pikeman",
+	"uniqueTo": "Варвары",
+        "movement": 3,
+        "strength": 15,
+        "cost": 80,
+        "requiredTech": "Civil Service",
+        "uniques": ["[+50]% Strength <vs [Mounted] units>"],
+        "upgradesTo": "Lancer",
+        "obsoleteTech": "Metallurgy",
+        "attackSound": "metalhit"
     }
 ]
