@@ -26,5 +26,31 @@
         "upgradesTo": "Pikeman",
         "uniques": ["[+50]% Strength <vs [Mounted] units>"],
         "attackSound": "metalhit"
+    },
+    {
+        "name": "Brute",
+        "unitType": "Sword",
+	"uniqueTo": "Варвары",
+        "movement": 3,
+        "strength": 9,
+        "cost": 45,
+        "obsoleteTech": "Iron Working",
+        "upgradesTo": "Swordsman",
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Barbarian",
+        "unitType": "Sword",
+	"replaces": "Swordsman",
+	"uniqueTo": "Варвары",
+        "movement": 3,
+        "strength": 13,
+        "cost": 65,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "obsoleteTech": "Steel",
+        "requiredResource": "Iron",
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
     }
 ]
