@@ -1,6 +1,6 @@
 [
     {
-        "name": "Composite Bowman",
+        "name": "Skirmisher",
 	"uniqueTo": "Варвары",
         "unitType": "Archery",
 	"replaces": "Composite Bowman",
