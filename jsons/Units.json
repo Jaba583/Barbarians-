@@ -1,16 +1,15 @@
 [
-	{
-		"name": "Composite Bowmam",
-		"unitType": "Archery",
-		"uniqueTo": "Варвары",
-		"replaces": "Composite Bowmam",
-		"movement": 3,
-		"strength": 6,
-		"rangedStrength": 10,
-		"range": 2,
-		"cost": 65,
-		"requiredTech": "Construction",
-		"obsoleteTech": "Machinery",
-		"attackSound": "arrow"
-	}
+    {
+        "name": "Composite Bowman",
+        "unitType": "Archery",
+	"replaces": "Composite Bowman",
+        "movement": 3,
+        "strength": 6,
+        "rangedStrength": 10,
+        "cost": 65,
+        "requiredTech": "Construction",
+        "obsoleteTech": "Machinery",
+        "upgradesTo": "Crossbowman",
+        "attackSound": "arrow"
+    }
 ]
