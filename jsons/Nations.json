@@ -34,7 +34,7 @@
 			    "Units ignore terrain costs when moving",
 			    "[-33]% [Food] [in all cities]",
 			    "[-50]% [Science] [in all cities]",
-			    "Ignores Zone of Control"],
+			    "When conquering an encampment, earn [75] Gold and recruit a Barbarian unit <with [80]% chance>"],
 		"cities": ["Base"]
 	}
 ]
