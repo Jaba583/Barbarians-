@@ -2,6 +2,7 @@
     {
         "name": "Храм жертвоприношений",
 	"replaces": "Temple",
+	"uniqueTo": "Варвары",
 	"culture": 2,
         "faith": 3,
         "requiredBuilding": "Shrine",
