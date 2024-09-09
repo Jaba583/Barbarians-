@@ -39,7 +39,7 @@
         "attackSound": "nonmetalhit"
     },
     {
-        "name": "Barbarian",
+        "name": "Swordsman",
         "unitType": "Sword",
 	"replaces": "Swordsman",
 	"uniqueTo": "Варвары",
@@ -54,7 +54,7 @@
         "attackSound": "metalhit"
     },
     {
-        "name": "Equit",
+        "name": "Rider",
         "unitType": "Mounted",
 	"replaces": "Knight",
 	"uniqueTo": "Варвары",
@@ -72,7 +72,7 @@
         "attackSound": "horse"
     },
     {
-        "name": " Peaks",
+        "name": " Pikeman",
         "unitType": "Sword",
 	"replaces": "Pikeman",
 	"uniqueTo": "Варвары",
@@ -100,7 +100,7 @@
         "attackSound": "crossbow"
     },
     {
-        "name": "Longsword",
+        "name": "Longswordsman",
         "unitType": "Sword",
 	"replaces": "Longswordsman",
 	"uniqueTo": "Варвары",
