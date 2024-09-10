@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Варвары",
+		"style": "Barbarians",
 		"leaderName": "Барбариан I"
 		"adjective": ["Варвары"],
 		"preferredVictoryType": "Domination",
