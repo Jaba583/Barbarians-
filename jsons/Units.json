@@ -2,8 +2,8 @@
   {
 		"name": "Chariot Archer-Barbarians",
 		"unitType": "Archery",
-    "replaces": "Chariot Archer",
-    "uniqueTo": "Barbarians",
+                "replaces": "Chariot Archer",
+                "uniqueTo": "Barbarians",
 		"movement": 4,
 		"strength": 6,
 		"rangedStrength": 10,
