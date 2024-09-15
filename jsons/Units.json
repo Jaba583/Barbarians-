@@ -1,8 +1,8 @@
 [
       {
-        "name": "Barbarian general",
+        "name": "123",
         "replaces": "Great General",
-        "uniqueTo": "Playable Barbarians",
+        "uniqueTo": "321",
         "unitType": "Mounted",
         "strength": 15,
         "requiredResource": "Horses",
