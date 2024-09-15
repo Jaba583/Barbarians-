@@ -1,1 +1,24 @@
-
+[
+      {
+        "name": "Great general",
+        "replaces": "Great General",
+        "uniqueTo": "Кретин без стрингов",
+        "unitType": "Mounted",
+        "strength": 15,
+        "requiredResource": "Horses",
+        "promotions": ["Leadership"],
+        "upgradesTo": "Knight",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-33]% Strength <vs cities> <when attacking>",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Can be earned through combat <for [Land] units>",
+            "Great Person - [War]",
+            "Unbuildable",
+            "Uncapturable"
+        ],
+        "movement": 5,
+        "attackSound": "horse"
+    }
+]
