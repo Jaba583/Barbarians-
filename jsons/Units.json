@@ -2,7 +2,7 @@
       {
         "name": "Great general",
         "replaces": "Great General",
-        "uniqueTo": "Кретин без стрингов",
+        "uniqueTo": "Playable Barbarians",
         "unitType": "Mounted",
         "strength": 15,
         "requiredResource": "Horses",
